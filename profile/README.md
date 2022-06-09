@@ -3,7 +3,7 @@
 ☎ 03337 777 333 / +44 203 746 3283  Mon-Fri 9am-5pm GMT
   <br><hr>
   
-  > ![offers](https://goodhealthnaturally.com/223-offers)
+  > [offers](https://goodhealthnaturally.com/223-offers)
   
   
   
