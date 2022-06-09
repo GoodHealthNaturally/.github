@@ -4,7 +4,7 @@
   <br><hr>
   > [Offers](https://goodhealthnaturally.com/223-offers)
   > [Top 20 Products](https://goodhealthnaturally.com/223-offers)
-<hr>
+
 - [x] In Progress
 - [ ] [Update-prestashop-stores](https://github.com/good-health-naturally-workplace/Update-prestashop-stores)
 - [ ] Central database
