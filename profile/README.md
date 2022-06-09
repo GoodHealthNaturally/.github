@@ -1,5 +1,7 @@
-# ![logo](https://goodhealthnaturally.com/img/logo-1637795175.jpg)<br>
-<span style="color: green"><b>***☎ 03337 777 333 / +44 203 746 3283  Mon-Fri 9am-5pm GMT***</span>
+# ![logo](https://goodhealthnaturally.com/img/logo-1637795175.jpg)
+<br>
+<b>
+ + addition ***☎ 03337 777 333 / +44 203 746 3283  Mon-Fri 9am-5pm GMT***
   <br><hr>
   - [x] In Progress
 - [ ] [Update-prestashop-stores](https://github.com/good-health-naturally-workplace/Update-prestashop-stores)
