@@ -8,5 +8,5 @@
 - [ ] [Update-prestashop-stores](https://github.com/good-health-naturally-workplace/Update-prestashop-stores)
 - [ ] Central database
 ## Technical team
-@Umaelmah
+
 
